@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Página Inicial
+title: Home
 ---
 
-# Olá, mundo!
-Este é meu site Jekyll com o tema Hacker no GitHub Pages.
+# Hello, world!
+
+This is my Jekyll site using a **custom layout** with the Hacker theme look.
