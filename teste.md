@@ -3,6 +3,10 @@ layout: default
 title: Examples
 ---
 
+Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+
+[Link to another page](./another-page.html).
+
 # Hello from Test Page
 
 This is a test page using the same layout and styling.
